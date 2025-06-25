@@ -7,6 +7,8 @@ data = read_data('C:\Users\AkradechNTC\Downloads\confirmed-cases-since-120864.cs
 keys = data.pop(0).strip().split(',')
     
 print(keys)
+print(values)
+
 
 
 
